@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# Getting Started with ContactList React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+# Over View of Contacts List App.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. ContactList App is built upon the concept of component based approach.
+2. Home page of Contacts List Will look like this as below Image.
+   
+   ![Screenshot (29)](https://github.com/SidhiqAbu/ContactsList/assets/115681038/60f9da69-7e8f-4e71-a976-ba568c79a019)
 
-### `npm run build`
+3. Top Left Cornor have Dark mode Option by click on it we can switch to dark mode and vies versa.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot (26)](https://github.com/SidhiqAbu/ContactsList/assets/115681038/ed528118-eb05-48f2-b02c-e83d36d30a8c)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+4. By filling up and details you will add new contacts.
+  
+5. Added contacts will be look like this as below Image.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+6. When click on Edite text contact is removed from list and all details showing in add contact form and by editting details you can save new edited info of contacts.
 
-### `npm run eject`
+7. The Editted Info of contacts will be look like as below picture.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+8. When you faceing any Internet slow connect on your devices then it will show like as below Image.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+9. When no Internet connect is showing or Internet is off mode then it will show Alert as below Picture.
+    
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+10. Finally by click on delete button you can delete exist contacts and total saved contacts count is showing on bottom left cornor of the page.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
