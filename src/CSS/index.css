@@ -1,0 +1,96 @@
+.body1{
+    background-color: #282c34;
+    color: white;
+}
+
+/* Contacts.js css properties....... */
+.contacts{
+    width: 70%;
+    font-size: 18px;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+.contacts::-webkit-scrollbar{
+    display: none;
+}
+
+/* Home.js css properties....... */
+.homeBox{
+    display:flex;
+    height:560px;
+}
+
+/* Navbar css properties......... */
+
+.outer{
+    border:2px solid lightgrey;
+}
+
+.header1{
+    text-align: center;
+    margin:0px;
+    padding:15px;
+}
+
+/* Side.js css properties.......... */
+
+.outerBox{
+    font-size: 20px;
+    width:30%;
+    text-align: center;
+    padding:10px;
+}
+.innerBox{
+    padding:50px;
+    border:2px solid lightblue;
+    margin:5px;
+}
+.input1{
+    margin-bottom:10px;
+    cursor:pointer;
+}
+.button1{
+    padding:5px;
+    font-size:medium;
+    margin:5px;
+    cursor:pointer;
+}
+.label1{margin-right:50px}
+.label2{margin-right:20px}
+.label3{margin-right:10px}
+
+/* Info.js css properties........ */
+
+.innerBox1{
+    display:flex;
+    margin:20px;
+    padding:5px;
+    border:2px solid lightgreen;
+    justify-content:space-evenly;
+}
+.p1{
+    cursor:pointer;
+}
+
+/* Taggle.js css properties............. */
+
+.outerTagle{
+    display:flex;
+    margin: 0px;
+    height: 30px;
+}
+.innerTagle{
+    width: 14px;
+    margin: 0px;
+    padding:5px;
+}
+.tagleHeader{
+    margin: 4px;
+}
+
+/* Error component css properties........ */
+.errorHandler{
+    text-align: center;
+    font-size: 50px;
+    margin: 18%;
+}
